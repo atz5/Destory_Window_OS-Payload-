@@ -1,6 +1,9 @@
 /*
  * Generated with <3 by Dckuino.js, an open source project !
  */
+// Note::for
+// −·− −·−− −·· −· −−
+
 
 #include "Keyboard.h"
 
@@ -16,6 +19,9 @@ void setup()
 {
   // Begining the Keyboard stream
   Keyboard.begin();
+  
+  // Note::for
+  // −·− −·−− −·· −· −−
 
   // Wait 500ms
   delay(500);
@@ -63,3 +69,6 @@ void setup()
 
 /* Unused endless loop */
 void loop() {}
+
+// Note::for
+// −·− −·−− −·· −· −−
